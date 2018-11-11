@@ -8,8 +8,8 @@ permalink: /about/
 
 ### More Information
 
-・好きな
+ゲームに使うツールの開発や、自作キーボードの作成など
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://twitter.com/Apr1c07](twitter:Apr1c07)
