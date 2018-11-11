@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[https://twitter.com/Apr1c07](twitter:Apr1c07)
+[twitter:Apr1c07](https://twitter.com/Apr1c07)
